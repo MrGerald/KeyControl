@@ -27,7 +27,7 @@ class NMA_API
 
     public $apiCallsRemaining = false;
 
-    public $apiLimitReset = false;
+    public $apiLimitReset = true;
 
     public $lastStatus = false;
     /**
